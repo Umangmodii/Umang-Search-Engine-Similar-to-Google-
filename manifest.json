@@ -1,0 +1,31 @@
+{
+    "name": "Umang",
+    "short_name": "Umang",
+    "description": "Search and image using App.",
+    "icons": [
+        {
+          "src": "image/Your paragraph text.png",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+        },
+        {
+          "src": "image/Your paragraph text.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "image/Your paragraph text.pngg",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+            "src": "image/Your paragraph text.png",
+            "type": "image/png",
+            "sizes": "450x400"
+          }
+      ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+  }
